@@ -1,0 +1,16 @@
+body,html { 
+background-color: rgb(33,33,33)
+
+}
+p{
+color: antiquewhite
+}
+
+.grey-copy{
+    color: grey
+}
+
+#content-wrapper{
+    width:600px;
+}
+
