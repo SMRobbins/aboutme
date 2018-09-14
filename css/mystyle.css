@@ -1,13 +1,56 @@
 body,html { 
+    font-family: 'Roboto', sans-serif;
 background-color: rgb(33,33,33)
 
 }
+
+#content-wrapper {
+    width: 960px; 
+    margin: 0 auto;
+    
+}
+
+img {
+    display: block;
+    margin:0 auto; 
+    border:5px solid antiquewhite; 
+    border-radius: 300px;
+}
+
+figcaption {
+    font-size: 10; color: lightcoral;
+    text-align: center;
+    list-style: inside;
+}
+
+ul > li {
+    display: inline;
+    margin: 0 5px 0 5px; 
+    width: 300px;
+    margin: 0 auto;
+}
+
+ul {
+    text-align: center;
+
+  }
+ 
+
+i{
+    font-size: 60px; color: antiquewhite
+}
+
 p{
 color: antiquewhite
 }
 
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: lightcoral
+}
+
 .grey-copy{
-    color: grey
+    color: antiquewhite
 }
 
 #content-wrapper{
